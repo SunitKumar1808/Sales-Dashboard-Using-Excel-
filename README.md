@@ -75,5 +75,4 @@ To make data insights more accessible, the following visualization techniques we
 🚀 Conclusion
 A Sales Dashboard in MS Excel is an essential tool for businesses to track revenue, analyze sales trends, and improve decision-making. By leveraging data cleaning, transformation, and visualization techniques, this dashboard provides a clear and structured view of sales performance.
 
-💡 Want to enhance this project? Feel free to contribute! Fork the repository, suggest improvements, or raise an issue. 🚀
 
